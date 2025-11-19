@@ -18,7 +18,7 @@ function transformingLogs(logs: string): string[] {
   const totalTimes: Record<string, number> = {};
 
   for (const entry of entries) {
-    const [id, action, time] = entry.split(" ");
+    const [id = "", action, time = ""] = entry.split(" ");
 
     if (action === "borrow") {
       borrowTimes[id] = toMinutes(time);

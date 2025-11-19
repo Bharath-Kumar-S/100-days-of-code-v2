@@ -1,0 +1,25 @@
+{
+  "name": "200-days-of-code",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/Bharath-Kumar-S/200-days-of-code#readme",
+  "bugs": {
+    "url": "https://github.com/Bharath-Kumar-S/200-days-of-code/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bharath-Kumar-S/200-days-of-code.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "@types/node": "^24.10.1",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.3"
+  }
+}

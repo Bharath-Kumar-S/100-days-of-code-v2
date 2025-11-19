@@ -1,5 +1,8 @@
 const toMinutes = (t: string): number => {
-  const [h, m] = t.split(":").map(Number);
+  const [h = 0, m = 0] = t.split(":").map(Number);
+  if (Number.isNaN(h) || Number.isNaN(m)) {
+    throw new Error(`Invalid time format: ${t}`);
+  }
   return h * 60 + m;
 };
 
