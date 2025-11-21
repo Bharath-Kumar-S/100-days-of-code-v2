@@ -26,6 +26,7 @@ A commitment to code for 200 consecutive days, building skills and completing pr
 2. Working on logs [Nov 18](./day%202/)
 3. TypeScript Classes [Nov 19](./day%203/)
 4. TypeScript Classes task [Nov 20](./day%204/)
+5. TypeScript access modifiers [Nov 21](./day%205/)
 
 ---
 **Start Date:** [November 17 2025]
