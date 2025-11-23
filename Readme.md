@@ -29,6 +29,7 @@ A commitment to code for 200 consecutive days, building skills and completing pr
 5. TypeScript access modifiers [Nov 21](./day%205/)
 6. TypeScript inheritence [Nov 22](./day%206/)
 7. TypeScript arrays [Nov 23](./day%207/arrays/)
+    Leetcode arrays [Nov 23](./leetcode/day%207/)
 
 ---
 **Start Date:** [November 17 2025]
