@@ -13,6 +13,7 @@ export async function POST(req: NextRequest) {
       description,
       created_by,
       poll_options: pollOptions,
+      expires_at,
     } = await req.json();
 
     const existingUser = await db
@@ -41,7 +42,12 @@ export async function POST(req: NextRequest) {
 
     const [poll] = await db
       .insert(polls)
-      .values({ title, description, created_by })
+      .values({
+        title,
+        description,
+        created_by,
+        expires_at: new Date(expires_at),
+      })
       .returning();
 
     const createdOptions = [];

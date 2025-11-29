@@ -12,8 +12,8 @@ export async function GET() {
     const allUsers = await db.select().from(users);
 
     return NextResponse.json({
-      users: allUsers,
       total: allUsers.length,
+      users: allUsers,
     });
   } catch (err: unknown) {
     if (err instanceof Error) {

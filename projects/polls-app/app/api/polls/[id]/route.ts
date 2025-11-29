@@ -1,6 +1,6 @@
 import { db } from "@/db/client";
-import { polls } from "@/db/schema";
-import { eq } from "drizzle-orm";
+import { options, polls } from "@/db/schema";
+import { eq, desc } from "drizzle-orm";
 import { NextRequest, NextResponse } from "next/server";
 
 export const revalidate = 1; // ISR: 0 means always revalidate
@@ -29,7 +29,17 @@ export async function GET(
       return NextResponse.json({ error: "Poll not found" }, { status: 404 });
     }
 
-    return NextResponse.json({ ...poll });
+    const pollOptions = await db
+      .select({
+        id: options.id,
+        text: options.text,
+        votes_count: options.votes_count,
+      })
+      .from(options)
+      .where(eq(options.poll_id, poll.id))
+      .orderBy(desc(options.votes_count));
+
+    return NextResponse.json({ ...poll, options: pollOptions });
   } catch (err: unknown) {
     console.error("DB Error:", err);
     return NextResponse.json(
