@@ -1,7 +1,7 @@
 import { NextRequest, NextResponse } from "next/server";
 import { db } from "@/db/client";
 import { polls, options, users } from "@/db/schema";
-import { eq } from "drizzle-orm";
+import { eq, desc } from "drizzle-orm";
 
 export const revalidate = 1; // ISR: 0 means always revalidate
 export const dynamic = "force-dynamic"; // forces Next.js to skip caching
@@ -13,6 +13,7 @@ export async function POST(req: NextRequest) {
       description,
       created_by,
       poll_options: pollOptions,
+      expires_at,
     } = await req.json();
 
     const existingUser = await db
@@ -41,7 +42,12 @@ export async function POST(req: NextRequest) {
 
     const [poll] = await db
       .insert(polls)
-      .values({ title, description, created_by })
+      .values({
+        title,
+        description,
+        created_by,
+        expires_at: new Date(expires_at),
+      })
       .returning();
 
     const createdOptions = [];
@@ -75,7 +81,10 @@ export async function POST(req: NextRequest) {
 
 export async function GET() {
   try {
-    const allPolls = await db.select().from(polls);
+    const allPolls = await db
+      .select()
+      .from(polls)
+      .orderBy(desc(polls.created_at));
 
     return NextResponse.json({
       total: allPolls.length,
