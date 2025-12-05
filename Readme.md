@@ -42,6 +42,8 @@ A commitment to code for 200 consecutive days, building skills and completing pr
 React Activity
 - [Day 17 (2025-12-03)](https://github.com/Bharath-Kumar-S/XYB)
 React Query
+- [Day 18 (2025-12-04)](https://github.com/Bharath-Kumar-S/XYB)
+React hook form, Modal component
 
 ---
 **Start Date:** [November 17 2025]
