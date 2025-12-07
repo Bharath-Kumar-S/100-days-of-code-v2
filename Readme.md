@@ -44,6 +44,9 @@ React Activity
 React Query
 - [Day 18 (2025-12-04)](https://github.com/Bharath-Kumar-S/XYB)
 React hook form, Modal component
+- [Day 19 (2025-12-05)](./projects/polls-app/)
+Clerk auth 
+
 
 ---
 **Start Date:** [November 17 2025]
