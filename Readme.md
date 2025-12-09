@@ -50,7 +50,10 @@ Clerk auth
 Clerk auth refactor user endpoint
 - [Day 21 (2025-12-07)](./projects/react-playground/app/components/Refs.tsx)
 React playground Refs
-
+- [Day 22 (2025-12-08)](https://www.hackerrank.com/challenges/cryptorank-exchange/problem?isFullScreen=true)
+Hackerrank - cryptorank-exchange
+- [Day 23 (2025-12-09)](https://www.hackerrank.com/challenges/blog-post/problem?isFullScreen=true)
+Hackerrank - blog-post
 
 ---
 **Start Date:** [November 17 2025]
