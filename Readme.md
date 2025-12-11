@@ -56,6 +56,7 @@ Hackerrank - cryptorank-exchange
 Hackerrank - blog-post
 - [Day 24 (2025-12-10)](https://www.hackerrank.com/challenges/patient-medical-records/problem)
 Hackerrank - patient-medical-records
+- [Day 25 (2025-12-11)](./general/day%2025/notes.md)
 
 ---
 **Start Date:** [November 17 2025]
