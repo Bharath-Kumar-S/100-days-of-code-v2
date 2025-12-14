@@ -14,8 +14,6 @@ class DoublyLinkedListNode {
   }
 }
 
-export { DoublyLinkedListNode };
-
 function sortedInsert(
   head: DoublyLinkedListNode | null,
   data: number
