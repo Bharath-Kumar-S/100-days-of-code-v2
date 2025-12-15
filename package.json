@@ -15,11 +15,17 @@
   "type": "commonjs",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "tsc-fakeapi": "tsc utils/mocks/internalApi.ts",
+    "start-fakeapi": "npx ts-node utils/mocks/internalApi.js"
   },
   "devDependencies": {
     "@types/node": "^24.10.1",
     "ts-node": "^10.9.2",
     "typescript": "^5.9.3"
+  },
+  "dependencies": {
+    "@types/express": "^5.0.6",
+    "express": "^5.2.1"
   }
 }
