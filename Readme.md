@@ -60,6 +60,7 @@ Hackerrank - patient-medical-records
 - [Day 26 (2025-12-12)](./general/day%2026/notes.md)
 - [Day 27 (2025-12-13)](./general/day%2027/notes.md)
 - [Day 28 (2025-12-14)](./general/day%2028/notes.md)
+- [Day 29 (2025-12-15)](./general/day%2029/notes.md)
 
 ---
 **Start Date:** [November 17 2025]
