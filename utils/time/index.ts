@@ -12,4 +12,6 @@ const toHHMM = (mins: number): string => {
   return `${String(h).padStart(2, "0")}:${String(m).padStart(2, "0")}`;
 };
 
-export { toMinutes, toHHMM };
+const sleep = (ms: number = 1000) => new Promise((res) => setTimeout(res, ms));
+
+export { toMinutes, toHHMM, sleep };
