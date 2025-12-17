@@ -2,5 +2,5 @@
 
 ### Topics Revised 
 
-- Retry fetch wioth expotential backoff
+- Retry fetch with expotential backoff
 - Abort controller
