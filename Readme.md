@@ -63,8 +63,9 @@ Hackerrank - patient-medical-records
 - [Day 29 (2025-12-15)](./general/day%2029/notes.md)
 - [Day 30 (2025-12-16)](./general/day%2030/README.md)
 - [Day 31 (2025-12-17)](./general/day%2031/Readme.md)
-- [Day 32 (2025-12-18)](Unreal Engine Basics) 
-- [Day 33 (2025-12-19)](Unreal Engine Basics)
+- [Day 32 (2025-12-18) Unreal Engine Basics](./) 
+- [Day 33 (2025-12-19) Unreal Engine Basics](./)
+- [Day 34 (2025-12-20) Unreal Engine Basics](./)
 
 ---
 **Start Date:** [November 17 2025]
