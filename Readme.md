@@ -66,6 +66,8 @@ Hackerrank - patient-medical-records
 - [Day 32 (2025-12-18) Unreal Engine Basics](./) 
 - [Day 33 (2025-12-19) Unreal Engine Basics](./)
 - [Day 34 (2025-12-20) Unreal Engine Basics](./)
+- [Day 35 (2025-12-21)](./projects/ts-next/)
+Next.js TypeScript Checker, Typed Routes, Route Aware Type Helpers, Typed Envs, Next Request and Response Type
 
 ---
 **Start Date:** [November 17 2025]
