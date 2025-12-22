@@ -4,9 +4,9 @@ export const dynamic = "force-dynamic";
 
 export async function GET(
   _request: NextRequest,
-  { params }: { params: Promise<{ id: string }> }
+  ctx: RouteContext<"/api/[id]">
 ) {
-  const { id } = await params;
+  const { id } = await ctx.params;
 
   return NextResponse.json(
     { msg: `You requested ID: ${id}` },
