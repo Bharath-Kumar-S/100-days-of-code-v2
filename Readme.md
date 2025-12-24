@@ -68,6 +68,8 @@ Hackerrank - patient-medical-records
 - [Day 34 (2025-12-20) Unreal Engine Basics](./)
 - [Day 35 (2025-12-21)](./projects/ts-next/)
 Next.js TypeScript Checker, Typed Routes, Route Aware Type Helpers, Typed Envs, Next Request and Response Type
+- [Day 36 (2025-12-22)](./typescript/) 
+asConst, unionTypes [Next.js 16 Type Safety: Async PageProps & Typed Routes](https://dev.to/bharathkumar28/nextjs-16-type-safety-async-pageprops-typed-routes-3ilc)
 
 ---
 **Start Date:** [November 17 2025]
