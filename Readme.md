@@ -72,7 +72,8 @@ Next.js TypeScript Checker, Typed Routes, Route Aware Type Helpers, Typed Envs, 
 asConst, unionTypes [Next.js 16 Type Safety: Async PageProps & Typed Routes](https://dev.to/bharathkumar28/nextjs-16-type-safety-async-pageprops-typed-routes-3ilc)
 - [Day 37 (2025-12-23)](./typescript/discriminatedUnion/)
 Discriminated Union, Literal types, satisfies
-
+- [Day 38 (2025-12-24)](./typescript/required|omit|pick|partial/)
+empty object, optional, countResponseTimeRegressions
 
 ---
 **Start Date:** [November 17 2025]
