@@ -74,6 +74,15 @@ asConst, unionTypes [Next.js 16 Type Safety: Async PageProps & Typed Routes](htt
 Discriminated Union, Literal types, satisfies
 - [Day 38 (2025-12-24)](./typescript/required|omit|pick|partial/)
 empty object, optional, countResponseTimeRegressions
+- Day 39 (2025-12-25)
+
+    | Problem | Link |
+    |------|------|
+    | Binary Search | [View Code](./hackerrank/binarySearch.ts) |
+    | First Occurrence (Binary Search) | [View Code](./hackerrank/findFirstOccurrence.ts) |
+    | Smallest Missing Positive | [View Code](./hackerrank/findSmallestMissingPositive.ts) |
+    | Alphabetic Palindrome | [View Code](./hackerrank/isAlphabeticPalindrome.ts) |
+    | Non-Trivial Rotation | [View Code](./hackerrank/isNonTrivialRotation.ts) |
 
 ---
 **Start Date:** [November 17 2025]
