@@ -84,6 +84,9 @@ empty object, optional, countResponseTimeRegressions
     | Alphabetic Palindrome | [View Code](./hackerrank/isAlphabeticPalindrome.ts) |
     | Non-Trivial Rotation | [View Code](./hackerrank/isNonTrivialRotation.ts) |
 
+- [Day 40 (2025-12-26)](./portfolio/)
+    In-progress
+
 ---
 **Start Date:** [November 17 2025]
 **Target Completion:** [June 5 2025]
