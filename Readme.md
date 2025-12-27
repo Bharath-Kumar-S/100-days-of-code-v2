@@ -87,6 +87,13 @@ empty object, optional, countResponseTimeRegressions
 - [Day 40 (2025-12-26)](./portfolio/)
     In-progress portfolio
 
+- Day 41 (2025-12-27)
+
+    | Problem | Link |
+    |------|------|
+    | Validate Properly Nested Brackets | [View Code](./hackerrank/areBracketsProperlyMatched.ts) |
+    | Maximum Number of Non-Overlapping Intervals | [View Code](./hackerrank/maximizeNonOverlappingMeetings.ts) |
+
 ---
 **Start Date:** [November 17 2025]
 **Target Completion:** [June 5 2025]
