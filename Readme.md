@@ -85,7 +85,7 @@ empty object, optional, countResponseTimeRegressions
     | Non-Trivial Rotation | [View Code](./hackerrank/isNonTrivialRotation.ts) |
 
 - [Day 40 (2025-12-26)](./portfolio/)
-    In-progress
+    In-progress portfolio
 
 ---
 **Start Date:** [November 17 2025]
