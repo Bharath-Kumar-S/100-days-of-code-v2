@@ -1,0 +1,234 @@
+/* =========================
+   Color System (Theme)
+   ========================= */
+:root {
+  --bg-page: #0f172a; /* page background */
+  --bg-card: #020617; /* container */
+  --bg-muted: #020617;
+  --bg-answer: #020617;
+  --bg-answer-hover: #020617;
+
+  --primary: #38bdf8; /* main accent */
+  --primary-hover: #0ea5e9;
+
+  --success-bg: #022c22;
+  --success-border: #2dd4bf;
+  --success-text: #2dd4bf;
+
+  --error-bg: #2a0f12;
+  --error-border: #f87171;
+  --error-text: #f87171;
+
+  --text-main: #e5e7eb;
+  --text-muted: #94a3b8;
+  --text-strong: #f8fafc;
+
+  --border-default: #334155;
+  --shadow: rgba(0, 0, 0, 0.6);
+}
+
+/* =========================
+   Base Reset
+   ========================= */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* =========================
+   Layout
+   ========================= */
+body {
+  background-color: var(--bg-page);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  padding: 1rem;
+  font-family: sans-serif;
+  color: var(--text-main);
+}
+
+.container {
+  background-color: var(--bg-card);
+  border-radius: 1rem;
+  box-shadow: 0 10px 30px var(--shadow);
+  width: 100%;
+  max-width: 600px;
+  overflow: hidden;
+  position: relative;
+}
+
+/* =========================
+   Screens
+   ========================= */
+.screen {
+  display: none;
+  padding: 2rem;
+  text-align: center;
+}
+
+.screen.active {
+  display: block;
+}
+
+/* =========================
+   Start Screen
+   ========================= */
+#start-screen h1 {
+  color: var(--primary);
+  margin-bottom: 20px;
+  font-size: 2.5rem;
+}
+
+#start-screen p {
+  color: var(--text-muted);
+  margin-bottom: 30px;
+  font-size: 1.1rem;
+}
+
+/* =========================
+   Quiz Screen
+   ========================= */
+.quiz-header {
+  margin-bottom: 2rem;
+}
+
+#question-text {
+  color: var(--text-strong);
+  font-size: 1.5rem;
+  margin-bottom: 1rem;
+  line-height: 1.4;
+}
+
+.quiz-info {
+  display: flex;
+  justify-content: space-between;
+  color: var(--text-muted);
+  margin-bottom: 10px;
+}
+
+.answers-container {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin-bottom: 25px;
+}
+
+.answer-btn {
+  background-color: var(--bg-answer);
+  color: var(--text-main);
+  border: 2px solid var(--border-default);
+  border-radius: 10px;
+  padding: 1rem;
+  cursor: pointer;
+  text-align: left;
+}
+
+.answer-btn:hover {
+  background-color: var(--bg-answer-hover);
+  border-color: var(--primary);
+  transition: all 0.3s ease;
+}
+
+.answer-btn.correct {
+  background-color: var(--success-bg);
+  border-color: var(--success-border);
+  color: var(--success-text);
+}
+
+.answer-btn.incorrect {
+  background-color: var(--error-bg);
+  border-color: var(--error-border);
+  color: var(--error-text);
+}
+
+/* =========================
+   Progress Bar
+   ========================= */
+.progress-bar {
+  height: 10px;
+  background-color: var(--bg-muted);
+  border-radius: 5px;
+  overflow: hidden;
+  margin-top: 20px;
+}
+
+.progress {
+  height: 100%;
+  background-color: var(--primary);
+  width: 0%;
+  transition: width 0.3s ease;
+}
+
+/* =========================
+   Result Screen
+   ========================= */
+#result-screen h1 {
+  color: var(--primary);
+  margin-bottom: 30px;
+}
+
+.result-info {
+  background-color: var(--bg-muted);
+  border-radius: 10px;
+  padding: 20px;
+  margin-bottom: 30px;
+}
+
+.result-info p {
+  font-size: 1.2rem;
+  color: var(--text-main);
+  margin-bottom: 1rem;
+}
+
+#result-message {
+  font-size: 1.5rem;
+  font-weight: 600;
+  color: var(--primary);
+}
+
+/* =========================
+   Buttons
+   ========================= */
+button {
+  background-color: var(--primary);
+  color: #020617;
+  border: none;
+  border-radius: 10px;
+  padding: 15px 30px;
+  font-size: 1.1rem;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+button:hover {
+  background-color: var(--primary-hover);
+}
+
+/* =========================
+   Responsive
+   ========================= */
+@media (max-width: 500px) {
+  .screen {
+    padding: 1rem;
+  }
+
+  #start-screen h1 {
+    font-size: 2rem;
+  }
+
+  #question-text {
+    font-size: 1.3rem;
+  }
+
+  .answer-btn {
+    padding: 12px;
+  }
+
+  button {
+    padding: 12px 25px;
+    font-size: 1rem;
+  }
+}
