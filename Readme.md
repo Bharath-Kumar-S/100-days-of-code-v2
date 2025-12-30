@@ -100,6 +100,9 @@ empty object, optional, countResponseTimeRegressions
 - [Day 43 (2025-12-29)](./projects/vanilla/todo-app/)
     Vanilla - Todo app
 
+- [Day 44 (2025-12-30)](./hackerrank/processCouponStackOperations.ts)
+    Min-Tracking Stack Implementation
+
 ---
 **Start Date:** [November 17 2025]
 **Target Completion:** [June 5 2025]
