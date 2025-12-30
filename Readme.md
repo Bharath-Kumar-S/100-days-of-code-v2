@@ -97,6 +97,9 @@ empty object, optional, countResponseTimeRegressions
 - [Day 42 (2025-12-28)](./projects/vanilla/quiz-app/)
     Vanilla - Quiz app
 
+- [Day 43 (2025-12-29)](./projects/vanilla/todo-app/)
+    Vanilla - Todo app
+
 ---
 **Start Date:** [November 17 2025]
 **Target Completion:** [June 5 2025]
