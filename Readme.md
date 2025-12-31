@@ -103,6 +103,12 @@ empty object, optional, countResponseTimeRegressions
 - [Day 44 (2025-12-30)](./hackerrank/processCouponStackOperations.ts)
     Min-Tracking Stack Implementation
 
+- [Day 45 (2025-12-31)]
+    
+    | Problem | Link |
+    |------|------|
+    | Two Sum| [View Code](./hackerrank/findTaskPairForSlot.ts) |
+    | Count Number Pairs | [View Code](./hackerrank/countAffordablePairs.ts) |
 ---
 **Start Date:** [November 17 2025]
 **Target Completion:** [June 5 2025]
