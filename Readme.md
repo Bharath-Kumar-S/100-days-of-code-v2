@@ -109,6 +109,13 @@ empty object, optional, countResponseTimeRegressions
     |------|------|
     | Two Sum| [View Code](./hackerrank/findTaskPairForSlot.ts) |
     | Count Number Pairs | [View Code](./hackerrank/countAffordablePairs.ts) |
+
+- [Day 46 (2026-01-01)]
+    
+    | Problem | Link |
+    |------|------|
+    | Remove Consecutive Duplicates from Sorted Linked List | [View Code](./hackerrank/deleteDuplicates.ts) |
+
 ---
 **Start Date:** [November 17 2025]
 **Target Completion:** [June 5 2025]
