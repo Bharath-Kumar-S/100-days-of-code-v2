@@ -1,23 +1,27 @@
 # 200 Days of Code
 
 ## Overview
+
 A commitment to code for 200 consecutive days, building skills and completing projects.
 
 ## Goals
+
 - Write code every day for 200 days
 - Build meaningful projects
 - Document progress and learnings
 - Improve problem-solving abilities
 
 ## Rules
+
 - Code for at least 1 hour daily
 - Track daily progress
 - Share updates regularly
 - Complete at least one mini-project per week
 
 ## Progress
+
 | Week | Days | Status | Project |
-|------|------|--------|---------|
+| ---- | ---- | ------ | ------- |
 | 1    | 1-7  | ⬜     |         |
 | 2    | 8-14 | ⬜     |         |
 
@@ -38,24 +42,24 @@ A commitment to code for 200 consecutive days, building skills and completing pr
 - [Day 13 (2025-11-29)](./general/day%2013/notes.md)
 - [Day 14 (2025-11-30)](https://github.com/Bharath-Kumar-S/XYB)
 - [Day 15 (2025-12-01)](https://github.com/Bharath-Kumar-S/XYB)
-- [Day 16 (2025-12-02)](./general/day%2016/latest/) 
-React Activity
+- [Day 16 (2025-12-02)](./general/day%2016/latest/)
+  React Activity
 - [Day 17 (2025-12-03)](https://github.com/Bharath-Kumar-S/XYB)
-React Query
+  React Query
 - [Day 18 (2025-12-04)](https://github.com/Bharath-Kumar-S/XYB)
-React hook form, Modal component
+  React hook form, Modal component
 - [Day 19 (2025-12-05)](./projects/polls-app/)
-Clerk auth 
+  Clerk auth
 - [Day 20 (2025-12-06)](./projects/polls-app/)
-Clerk auth refactor user endpoint
+  Clerk auth refactor user endpoint
 - [Day 21 (2025-12-07)](./projects/react-playground/app/components/Refs.tsx)
-React playground Refs
+  React playground Refs
 - [Day 22 (2025-12-08)](https://www.hackerrank.com/challenges/cryptorank-exchange)
-Hackerrank - cryptorank-exchange
+  Hackerrank - cryptorank-exchange
 - [Day 23 (2025-12-09)](https://www.hackerrank.com/challenges/blog-post/problem)
-Hackerrank - blog-post
+  Hackerrank - blog-post
 - [Day 24 (2025-12-10)](https://www.hackerrank.com/challenges/patient-medical-records/problem)
-Hackerrank - patient-medical-records
+  Hackerrank - patient-medical-records
 - [Day 25 (2025-12-11)](./general/day%2025/notes.md)
 - [Day 26 (2025-12-12)](./general/day%2026/notes.md)
 - [Day 27 (2025-12-13)](./general/day%2027/notes.md)
@@ -63,59 +67,59 @@ Hackerrank - patient-medical-records
 - [Day 29 (2025-12-15)](./general/day%2029/notes.md)
 - [Day 30 (2025-12-16)](./general/day%2030/README.md)
 - [Day 31 (2025-12-17)](./general/day%2031/Readme.md)
-- [Day 32 (2025-12-18) Unreal Engine Basics](./) 
+- [Day 32 (2025-12-18) Unreal Engine Basics](./)
 - [Day 33 (2025-12-19) Unreal Engine Basics](./)
 - [Day 34 (2025-12-20) Unreal Engine Basics](./)
 - [Day 35 (2025-12-21)](./projects/ts-next/)
-Next.js TypeScript Checker, Typed Routes, Route Aware Type Helpers, Typed Envs, Next Request and Response Type
-- [Day 36 (2025-12-22)](./typescript/) 
-asConst, unionTypes [Next.js 16 Type Safety: Async PageProps & Typed Routes](https://dev.to/bharathkumar28/nextjs-16-type-safety-async-pageprops-typed-routes-3ilc)
+  Next.js TypeScript Checker, Typed Routes, Route Aware Type Helpers, Typed Envs, Next Request and Response Type
+- [Day 36 (2025-12-22)](./typescript/)
+  asConst, unionTypes [Next.js 16 Type Safety: Async PageProps & Typed Routes](https://dev.to/bharathkumar28/nextjs-16-type-safety-async-pageprops-typed-routes-3ilc)
 - [Day 37 (2025-12-23)](./typescript/discriminatedUnion/)
-Discriminated Union, Literal types, satisfies
+  Discriminated Union, Literal types, satisfies
 - [Day 38 (2025-12-24)](./typescript/required|omit|pick|partial/)
-empty object, optional, countResponseTimeRegressions
+  empty object, optional, countResponseTimeRegressions
 - Day 39 (2025-12-25)
 
-    | Problem | Link |
-    |------|------|
-    | Binary Search | [View Code](./hackerrank/binarySearch.ts) |
-    | First Occurrence (Binary Search) | [View Code](./hackerrank/findFirstOccurrence.ts) |
-    | Smallest Missing Positive | [View Code](./hackerrank/findSmallestMissingPositive.ts) |
-    | Alphabetic Palindrome | [View Code](./hackerrank/isAlphabeticPalindrome.ts) |
-    | Non-Trivial Rotation | [View Code](./hackerrank/isNonTrivialRotation.ts) |
+  | Problem                          | Link                                                     |
+  | -------------------------------- | -------------------------------------------------------- |
+  | Binary Search                    | [View Code](./hackerrank/binarySearch.ts)                |
+  | First Occurrence (Binary Search) | [View Code](./hackerrank/findFirstOccurrence.ts)         |
+  | Smallest Missing Positive        | [View Code](./hackerrank/findSmallestMissingPositive.ts) |
+  | Alphabetic Palindrome            | [View Code](./hackerrank/isAlphabeticPalindrome.ts)      |
+  | Non-Trivial Rotation             | [View Code](./hackerrank/isNonTrivialRotation.ts)        |
 
 - [Day 40 (2025-12-26)](./portfolio/)
-    In-progress portfolio
+  In-progress portfolio
 
 - Day 41 (2025-12-27)
 
-    | Problem | Link |
-    |------|------|
-    | Validate Properly Nested Brackets | [View Code](./hackerrank/areBracketsProperlyMatched.ts) |
-    | Maximum Number of Non-Overlapping Intervals | [View Code](./hackerrank/maximizeNonOverlappingMeetings.ts) |
+  | Problem                                     | Link                                                        |
+  | ------------------------------------------- | ----------------------------------------------------------- |
+  | Validate Properly Nested Brackets           | [View Code](./hackerrank/areBracketsProperlyMatched.ts)     |
+  | Maximum Number of Non-Overlapping Intervals | [View Code](./hackerrank/maximizeNonOverlappingMeetings.ts) |
 
 - [Day 42 (2025-12-28)](./projects/vanilla/quiz-app/)
-    Vanilla - Quiz app
+  Vanilla - Quiz app
 
 - [Day 43 (2025-12-29)](./projects/vanilla/todo-app/)
-    Vanilla - Todo app
+  Vanilla - Todo app
 
 - [Day 44 (2025-12-30)](./hackerrank/processCouponStackOperations.ts)
-    Min-Tracking Stack Implementation
+  Min-Tracking Stack Implementation
 
 - [Day 45 (2025-12-31)]
-    
-    | Problem | Link |
-    |------|------|
-    | Two Sum| [View Code](./hackerrank/findTaskPairForSlot.ts) |
-    | Count Number Pairs | [View Code](./hackerrank/countAffordablePairs.ts) |
+
+  | Problem            | Link                                              |
+  | ------------------ | ------------------------------------------------- |
+  | Two Sum            | [View Code](./hackerrank/findTaskPairForSlot.ts)  |
+  | Count Number Pairs | [View Code](./hackerrank/countAffordablePairs.ts) |
 
 - [Day 46 (2026-01-01)]
-    
-    | Problem | Link |
-    |------|------|
-    | Remove Consecutive Duplicates from Sorted Linked List | [View Code](./hackerrank/deleteDuplicates.ts) |
+  | Problem                                               | Link                                          |
+  | ----------------------------------------------------- | --------------------------------------------- |
+  | Remove Consecutive Duplicates from Sorted Linked List | [View Code](./hackerrank/deleteDuplicates.ts) |
 
 ---
+
 **Start Date:** [November 17 2025]
 **Target Completion:** [June 5 2025]
