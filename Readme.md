@@ -119,12 +119,14 @@ A commitment to code for 200 consecutive days, building skills and completing pr
   | ----------------------------------------------------- | --------------------------------------------- |
   | Remove Consecutive Duplicates from Sorted Linked List | [View Code](./hackerrank/deleteDuplicates.ts) |
 
-- [Day 47 (2025-01-02)]
+- [Day 47 (2026-01-02)]
   | Problem                                               | Link                                          |
   | ----------------------------------------------------- | --------------------------------------------- |
   | Check Valid Anagram | [View Code](./hackerrank/isAnagram.ts) |
   | Lexicographical Letter Combinations of Phone Digits | [View Code](./hackerrank/minTasksToCancelForNoConflict.ts) |
 
+- [Day 48 (2026-01-03)](./hackerrank/mergeHighDefinitionIntervals.ts)
+  Merge and Sort Intervals
 
 ---
 
