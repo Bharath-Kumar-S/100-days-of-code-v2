@@ -128,6 +128,9 @@ A commitment to code for 200 consecutive days, building skills and completing pr
 - [Day 48 (2026-01-03)](./hackerrank/mergeHighDefinitionIntervals.ts)
   Merge and Sort Intervals
 
+- [Day 49 (2026-01-04)](./hackerrank/findZeroSumTripletsInWindow.ts)
+  Zero-Sum Triplets within Sliding Window
+
 ---
 
 **Start Date:** [November 17 2025]
