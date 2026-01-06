@@ -144,6 +144,10 @@ A commitment to code for 200 consecutive days, building skills and completing pr
   | Value optional vs Key optional | [View Code](./typescript/optional/valueKeyOptional.ts) |
   | Unknown | [View Code](./typescript/unknown/index.ts) |
 
+- [Day 51 (2026-01-06)](./projects/react-native/StickerSmash/)
+  React native initial project
+
+
 ---
 
 **Start Date:** [November 17 2025]
