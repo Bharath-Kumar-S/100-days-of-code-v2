@@ -131,6 +131,19 @@ A commitment to code for 200 consecutive days, building skills and completing pr
 - [Day 49 (2026-01-04)](./hackerrank/findZeroSumTripletsInWindow.ts)
   Zero-Sum Triplets within Sliding Window
 
+- [Day 50 (2026-01-05)]
+  | Problem                                               | Link                                          |
+  | ----------------------------------------------------- | --------------------------------------------- |
+  | Exclude | [View Code](./typescript/exclude.ts) |
+  | Extract | [View Code](./typescript/extract.ts) |
+  | Interface | [View Code](./typescript/interface.ts) |
+  | Loose autocomplete | [View Code](./typescript/loose-autocomplete.ts) |
+  | Mapped Types | [View Code](./typescript/mappedTypes.ts) |
+  | Pick and Omit | [View Code](./typescript/pick_and_omit.ts) |
+  | Type | [View Code](./typescript/type.ts) |
+  | Value optional vs Key optional | [View Code](./typescript/optional/valueKeyOptional.ts) |
+  | Unknown | [View Code](./typescript/unknown/index.ts) |
+
 ---
 
 **Start Date:** [November 17 2025]
