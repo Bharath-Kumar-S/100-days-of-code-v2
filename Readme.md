@@ -150,6 +150,9 @@ A commitment to code for 200 consecutive days, building skills and completing pr
 - [Day 52 (2026-01-07)](./projects/react-native/StickerSmash/)
   React native - build tabs navigator
 
+- [Day 53 (2026-01-08)](./projects/react-native/StickerSmash/)
+  React native - build screen
+
 ---
 
 **Start Date:** [November 17 2025]
