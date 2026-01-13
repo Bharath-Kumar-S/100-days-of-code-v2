@@ -165,6 +165,9 @@ A commitment to code for 200 consecutive days, building skills and completing pr
 - [Day 57 (2026-01-12)](./leetcode/addTwoNumbers.ts)
   Leetcode - Add Two Numbers
 
+- [Day 58 (2026-01-13)](./leetcode/lengthOfLongestSubstring.ts)
+  Leetcode - Longest Substring Without Repeating Characters
+
 ---
 
 **Start Date:** [November 17 2025]
