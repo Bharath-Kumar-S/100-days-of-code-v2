@@ -168,6 +168,8 @@ A commitment to code for 200 consecutive days, building skills and completing pr
 - [Day 58 (2026-01-13)](./leetcode/lengthOfLongestSubstring.ts)
   Leetcode - Longest Substring Without Repeating Characters
 
+- [Day 59 (2026-01-14)](./distributed/kafka/)
+  Kafka
 ---
 
 **Start Date:** [November 17 2025]
