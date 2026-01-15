@@ -1,28 +1,20 @@
-import type { Product } from "../type";
+import { useCartStore } from "../store/cartStore";
 
-interface CartProps {
-  items: Product[];
-  setCart: React.Dispatch<React.SetStateAction<Product[]>>;
-}
+export const Cart = () => {
+  const { cart, removeFromCart, clearCart } = useCartStore();
 
-export const Cart = ({ items, setCart }: CartProps) => {
   return (
     <div>
       <h2>Cart</h2>
       <ul>
-        {items.map((item) => (
+        {cart.map((item) => (
           <li key={item.id}>
             {item.name} - ${item.price}
-            <button
-              onClick={() =>
-                setCart((prevCart) => prevCart.filter((i) => i.id !== item.id))
-              }
-            >
-              Remove
-            </button>
+            <button onClick={() => removeFromCart(item.id)}>Remove</button>
           </li>
         ))}
       </ul>
+      <button onClick={() => clearCart()}>Clear Cart</button>
     </div>
   );
 };
