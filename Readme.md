@@ -153,6 +153,9 @@ A commitment to code for 200 consecutive days, building skills and completing pr
 - [Day 53 (2026-01-08)](./projects/react-native/StickerSmash/)
   React native - build screen
 
+- [Day 54 (2026-01-09)](./git/branching-strategies/Readme.md)
+  Git - Branching Strategies
+
 ---
 
 **Start Date:** [November 17 2025]
