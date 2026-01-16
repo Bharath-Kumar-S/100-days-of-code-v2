@@ -156,6 +156,9 @@ A commitment to code for 200 consecutive days, building skills and completing pr
 - [Day 54 (2026-01-09)](./git/branching-strategies/Readme.md)
   Git - Branching Strategies
 
+- [Day 55 (2026-01-10)](./git/merge-vs-rebase/Readme.md)
+  Git - Merge vs Rebase
+
 ---
 
 **Start Date:** [November 17 2025]
