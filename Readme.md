@@ -162,6 +162,9 @@ A commitment to code for 200 consecutive days, building skills and completing pr
 - [Day 56 (2026-01-11)](./leetcode/plusOne.ts)
   Leetcode - Plus One
 
+- [Day 57 (2026-01-12)](./leetcode/addTwoNumbers.ts)
+  Leetcode - Add Two Numbers
+
 ---
 
 **Start Date:** [November 17 2025]
