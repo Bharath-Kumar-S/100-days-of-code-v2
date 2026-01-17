@@ -5,4 +5,4 @@ Call, Bind and Apply
 
 ### ✔ Problems Solved
 - [Call Bind Apply](./callBindApply.ts)
-- [Sort Array by Increasing Frequency](../../leetcode/day%208/frequencySort.ts)
+- [Sort Array by Increasing Frequency](../../leetcode/frequencySort.ts)

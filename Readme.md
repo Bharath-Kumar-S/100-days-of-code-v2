@@ -159,6 +159,9 @@ A commitment to code for 200 consecutive days, building skills and completing pr
 - [Day 55 (2026-01-10)](./git/merge-vs-rebase/Readme.md)
   Git - Merge vs Rebase
 
+- [Day 56 (2026-01-11)](./leetcode/plusOne.ts)
+  Leetcode - Plus One
+
 ---
 
 **Start Date:** [November 17 2025]

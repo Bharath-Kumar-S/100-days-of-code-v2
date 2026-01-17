@@ -9,5 +9,5 @@ Arrays
 - [Max min length](./arrays/maxMinLength.ts)
 - [Max min elements](./arrays/maxMinLengthElements.ts)
 - [Nested elements](./arrays/nestedArrays.ts)
-- [Two sum 1](../../leetcode/day%207/twoSum.ts)
-- [Median of two sorted array](../../leetcode/day%207/medianOfSortedArray.ts)
+- [Two sum 1](../../leetcode/twoSum.ts)
+- [Median of two sorted array](../../leetcode/medianOfSortedArray.ts)

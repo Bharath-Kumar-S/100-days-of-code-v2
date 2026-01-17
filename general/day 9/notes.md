@@ -4,4 +4,4 @@
 LRY cache
 
 ### ✔ Problems Solved
-- [LRU cache](../../leetcode/day%209/lruCache.ts)
+- [LRU cache](../../leetcode/lruCache.ts)

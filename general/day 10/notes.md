@@ -4,4 +4,4 @@
 Next JS, String leetcode problem
 
 ### ✔ Problems Solved
-- [Consecutive characters](../../leetcode/day%2010/consecutiveCharacters.ts)
+- [Consecutive characters](../../leetcode/consecutiveCharacters.ts)
