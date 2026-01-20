@@ -170,6 +170,10 @@ A commitment to code for 200 consecutive days, building skills and completing pr
 
 - [Day 59 (2026-01-14)](./distributed/kafka/)
   Kafka
+
+- [Day 60 (2026-01-15)](./projects/zustand/)
+  Zustand - store, immer 
+
 ---
 
 **Start Date:** [November 17 2025]
