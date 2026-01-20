@@ -1,6 +1,7 @@
 import { ControlledInput } from "./components/ControlledInput";
 import { Refs } from "./components/Refs";
 import { UncontrolledInput } from "./components/UncontrolledInput";
+import { Use } from "./components/Use";
 
 export default function Home() {
   return (
@@ -17,6 +18,8 @@ export default function Home() {
 
         <ControlledInput />
         <UncontrolledInput />
+
+        <Use />
       </main>
     </div>
   );
