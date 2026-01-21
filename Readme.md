@@ -174,6 +174,9 @@ A commitment to code for 200 consecutive days, building skills and completing pr
 - [Day 60 (2026-01-15)](./projects/zustand/)
   Zustand - store, immer 
 
+- [Day 61 (2026-01-16)](./projects/react-playground/)
+  Controlled vs Uncontrolled Components
+
 ---
 
 **Start Date:** [November 17 2025]
