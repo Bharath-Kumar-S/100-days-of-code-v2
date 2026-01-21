@@ -1,6 +1,8 @@
 import type { Metadata } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
 import "./globals.css";
+import Navbar from "@/components/Navbar";
+import Footer from "@/components/Footer";
 
 const geistSans = Geist({
   variable: "--font-geist-sans",
@@ -13,8 +15,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Bharath Kumar",
-  description: "Portfolio app",
+  title: "Bharath | Frontend Engineer",
+  description: "Senior Frontend Engineer – React, Next.js, Design Systems",
 };
 
 export default function RootLayout(props: LayoutProps<"/">) {
@@ -23,7 +25,9 @@ export default function RootLayout(props: LayoutProps<"/">) {
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
       >
+        {<Navbar />}
         {props.children}
+        <Footer />
       </body>
     </html>
   );
