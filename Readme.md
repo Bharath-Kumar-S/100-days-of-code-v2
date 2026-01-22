@@ -179,7 +179,10 @@ A commitment to code for 100 consecutive days, building skills and completing pr
 
 - [Day 62 (2026-01-17)](./projects/react-no-boilerplate/)
   React no boilerplate setup
-  
+
+- [Day 63 (2026-01-18)](./projects/vanilla/critical-rendering-path/Readme.md)
+  Critical Rendering Path
+
 ---
 
 **Start Date:** [November 17 2025]
