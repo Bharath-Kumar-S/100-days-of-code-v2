@@ -2,11 +2,11 @@
 
 ## Overview
 
-A commitment to code for 200 consecutive days, building skills and completing projects.
+A commitment to code for 100 consecutive days, building skills and completing projects.
 
 ## Goals
 
-- Write code every day for 200 days
+- Write code every day for 100 days
 - Build meaningful projects
 - Document progress and learnings
 - Improve problem-solving abilities
@@ -183,4 +183,4 @@ A commitment to code for 200 consecutive days, building skills and completing pr
 ---
 
 **Start Date:** [November 17 2025]
-**Target Completion:** [June 5 2025]
+**Target Completion:** [Feb 25 2026]
