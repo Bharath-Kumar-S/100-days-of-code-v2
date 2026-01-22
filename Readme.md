@@ -177,6 +177,9 @@ A commitment to code for 200 consecutive days, building skills and completing pr
 - [Day 61 (2026-01-16)](./projects/react-playground/)
   Controlled vs Uncontrolled Components
 
+- [Day 62 (2026-01-17)](./projects/react-no-boilerplate/)
+  React no boilerplate setup
+  
 ---
 
 **Start Date:** [November 17 2025]
