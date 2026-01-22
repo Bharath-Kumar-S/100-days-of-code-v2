@@ -1,4 +1,4 @@
-# 200 Days of Code
+# 100 Days of Code v2
 
 ## Overview
 
