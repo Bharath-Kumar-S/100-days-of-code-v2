@@ -183,6 +183,10 @@ A commitment to code for 100 consecutive days, building skills and completing pr
 - [Day 63 (2026-01-18)](./projects/vanilla/critical-rendering-path/Readme.md)
   Critical Rendering Path
 
+- [Day 64 (2026-01-19)](./runtimes/bun/)
+  Tryout Bun.JS
+
+
 ---
 
 **Start Date:** [November 17 2025]
