@@ -186,6 +186,8 @@ A commitment to code for 100 consecutive days, building skills and completing pr
 - [Day 64 (2026-01-19)](./runtimes/bun/)
   Tryout Bun.JS
 
+- [Day 65 (2026-01-20)](./projects/react-playground/)
+  React use, suspense, error boundary
 
 ---
 
