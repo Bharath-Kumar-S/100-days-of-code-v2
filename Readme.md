@@ -189,6 +189,9 @@ A commitment to code for 100 consecutive days, building skills and completing pr
 - [Day 65 (2026-01-20)](./projects/react-playground/)
   React use, suspense, error boundary
 
+- [Day 66 (2026-01-21)](./portfolio/)
+  NextJS - refactor the boilerplate for portfolio app
+
 ---
 
 **Start Date:** [November 17 2025]
