@@ -192,6 +192,9 @@ A commitment to code for 100 consecutive days, building skills and completing pr
 - [Day 66 (2026-01-21)](./portfolio/)
   NextJS - refactor the boilerplate for portfolio app
 
+- [Day 67 (2026-01-22)](./rust)
+  Rust Beginner
+
 ---
 
 **Start Date:** [November 17 2025]
