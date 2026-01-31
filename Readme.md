@@ -198,8 +198,11 @@ A commitment to code for 100 consecutive days, building skills and completing pr
 - [Day 68 (2026-01-23)](./leetcode/groupAnagrams.ts)
   Group Anagrams
 
-- [Day 68 (2026-01-24)](./leetcode/carPooling.ts)
+- [Day 69 (2026-01-24)](./leetcode/carPooling.ts)
   1094 Car Pooling
+
+- [Day 70 (2026-01-25)](./leetcode/essentials/index.ts)
+  Add helpers
 
 ---
 
